@@ -1,16 +1,4 @@
-# deliveryapp
+# 한강드론배달어플(윙윙이)
+이 프로젝트는 졸업작품 전시회에 제출하기 위해 만든 프로젝트입니다.
 
-졸업작품용
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+약 2주 정도의 작업으로 만들었고, 이 프로젝트는 react native + django + sqlite로 구성되어있던 프로젝트를 flutter + firebase로 수정하였습니다.
