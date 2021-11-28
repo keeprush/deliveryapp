@@ -123,6 +123,27 @@ flutter:
     - images/drone_marker.png
     - images/store_marker.png
     - images/profile.png
+    - images/readme/architecture.PNG
+    - images/readme/picture/1.PNG
+    - images/readme/picture/2.PNG
+    - images/readme/picture/3.PNG
+    - images/readme/picture/4-1.PNG
+    - images/readme/picture/4-2.PNG
+    - images/readme/picture/5.PNG
+    - images/readme/picture/6.PNG
+    - images/readme/picture/7.PNG
+    - images/readme/picture/8.PNG
+    - images/readme/picture/9.PNG
+    - images/readme/picture/10.PNG
+    - images/readme/picture/11.PNG
+    - images/readme/picture/12.PNG
+    - images/readme/picture/13.PNG
+    - images/readme/picture/14.PNG
+    - images/readme/picture/15.PNG
+    - images/readme/picture/16.PNG
+    - images/readme/picture/17.PNG
+    - images/readme/picture/18.PNG
+    - images/readme/picture/19.PNG
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
