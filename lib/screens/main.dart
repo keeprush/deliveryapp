@@ -89,7 +89,7 @@ class MyHomePage extends StatelessWidget {
     return StreamBuilder<User?>(
         stream: FirebaseAuth.instance.authStateChanges(),
         builder: (BuildContext context, AsyncSnapshot<User?> user) {
-          if (user.hasData && user.data!.emailVerified) {
+          if (user.hasData) {
             return const bottomTabView();
           }
           else {
